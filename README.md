@@ -1,11 +1,11 @@
-# sisaka - Sistem Akademin
+# sisaka - Sistem Akademik
 # akademik-feeder
 ![alt tag](https://raw.githubusercontent.com/baihaqyaviq/akademik-feeder/master/Screenshot.png)
 sistem informasi support feeder dikti
 
 #getting started
 1. ~~install panadaframework V1.0.0~~
-2. clone repository and cd akademik-feeder
+2. clone repository
 3. run command: composer install --no-dev
 4. run command: bower install (require nodejs installed)
 5. create database
